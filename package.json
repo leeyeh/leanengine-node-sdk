@@ -7,7 +7,7 @@
     "url": "https://github.com/leancloud/leanengine-node-sdk"
   },
   "dependencies": {
-    "avoscloud-sdk": "0.x",
+    "avoscloud-sdk": "leeyeh/javascript-sdk#react-native",
     "body-parser": "1.9.0",
     "connect": "3.2.0",
     "cookies": "0.5.0",
